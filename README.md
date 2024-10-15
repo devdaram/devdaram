@@ -146,6 +146,37 @@
   </div>
 </div>
 
+<h1 align="center">✨ 활동 목록 ✨</h1>
+<div>
+  <h3 > Git PR , Convention 문화 만들기 </h3>
+   <a href="https://github.com/your-repo-link">📁 리포지토리 링크</a>
+  <div>
+  </div>
+</div>
+
+<div>
+  <h3 > 신입사원 OJT 진행 </h3>
+   <a href="https://github.com/your-repo-link">📁 리포지토리 링크</a>
+  <div>
+  </div>
+</div>
+
+
+<div>
+  <h3 > Keyclock 사용 </h3>
+   <a href="https://github.com/your-repo-link">📁 리포지토리 링크</a>
+  <div>
+  </div>
+</div>
+
+
+<div>
+  <h3> Notion으로 업무활동 기록 </h3>
+   <a href="https://github.com/your-repo-link">📁 리포지토리 링크</a>
+  <div>
+  </div>
+</div>
+
 <!--   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp -->
