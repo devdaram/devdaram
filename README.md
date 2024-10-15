@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
 <!--   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" /> -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=JuYeong's%20Github&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JuYeong's%20Github&fontSize=90" />
 </div>
 
 <h1 align="center">✨ 주요 사용 기술 ✨</h1>
