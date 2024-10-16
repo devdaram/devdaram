@@ -62,7 +62,9 @@
 <br>
 <br>
 <div>
-  <h3><a href="https://github.com/devdaram/web-backend.git.git">🗓️ SKT HOLA 유지보수 / 고도화 개발</a></h3>
+  <h3>🗓️ SKT HOLA 유지보수 / 고도화 개발</h3>
+    <h5><a href="https://github.com/devdaram/web-backend/tree/main#-1-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">⍟ web-backend repository</a></h5>
+  <h5><a href="https://github.com/devdaram/Web-Front/tree/main#-1-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.git">⍟ web-front repository</a></h5>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
     개발 환경 : IntelliJ, GitLab<br>
@@ -97,7 +99,9 @@
 <br>
 <br>
 <div>
-  <h3><a href="https://github.com/devdaram/web-backend.git">🗓️ 삼성전자 Private 5G NMS(PNMS) 개발</a></h3>
+  <h3>🗓️ 삼성전자 Private 5G NMS(PNMS) 개발</h3>
+  <h5><a href="https://github.com/devdaram/web-backend/tree/main#-2-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">⍟ web-backend repository</a></h5>
+  <h5><a href="https://github.com/devdaram/Web-Front/tree/main#-2-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.git">⍟ web-front repository</a></h5>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
     개발 환경 : IntelliJ, Github, JIRA Confluence, Postman, Swagger, DBeaver<br>
