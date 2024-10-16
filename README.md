@@ -12,6 +12,7 @@
     - Java reactive(webflux) + RabbitMQ 활용 및 event driven 방식 활용 경험있음<br>
     - 다국어 처리 개발 경험있음<br>
     - Spring Integration 사용 경험있음<br>
+    - RabbitMQ 사용 경험있음<br>
     - Docker + Kubernetes helmchart 이용하여 배포 경험있음<br>
     - web backend 기능에 대해 DB Table 설계 경험있음<br>
     - PostgreSQL 또는 mySQL 기반 쿼리 작성 경험있음(mybatis)<br>
