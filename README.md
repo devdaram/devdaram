@@ -37,11 +37,12 @@
   <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ 철도공사 전원관리시스템 NMS 개발</a></h3>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL<br>
-    개발 환경 : IntelliJ, Github<br>
+    개발 환경 : IntelliJ, GitLab<br>
     개발경험 :<br>
     [NMS 웹 개발] <br>
-    - Web Backend<br>
-    - Web Front<br>
+    
+    - Web Backend : 전원설비, 무선설비 등 관리하는 화면에 필요한 RestAPI 개발
+    - Web Front : 전원설비, 무선설비 등 관리하는 화면 개발 
   </div>
 </div>
 <br>
@@ -49,10 +50,13 @@
 <div>
   <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ SKB 국가융합망</a></h3>
   <div>
-    기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
-    개발 환경 : IntelliJ, Github<br>
+    기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL <br>
+    개발 환경 : IntelliJ, GitLab<br>
     개발경험 :<br>
-    운영자를 위한 커뮤니티 게시판 개발: 운영자 및 클라이언트 사이의 소통공간으로 게시판을 개발하였음.<br>
+    
+    [운영자를 위한 게시판 개발]
+    - Web Backend : 운영자를 위한 커뮤니티 게시판에 필요한 RestAPI 개발
+    - Web Front : 게시판 화면 개발 
   </div>
 </div>
 <br>
@@ -61,17 +65,19 @@
   <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ SKT HOLA 유지보수 / 고도화 개발</a></h3>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
-    개발 환경 : IntelliJ, Github<br>
+    개발 환경 : IntelliJ, GitLab<br>
     개발경험 :<br>
-      a. Web Backend <br>
-      - 사용자관리, 로그인, 메뉴관리, 권한관리, Tenant관리, IP 권한관리, 세션관리, 세션 히스토리관리, 3rd party 관리, NE Group 관리 등 RestAPI 개발하였음.<br>
-      - Exception 처리 및 log 등 다국어처리가 될 수 있도록 개발하였음.<br>
-      - 로그인 사용자의 권한과 세션체크 경험이 있음.<br><br>
-      b. Web Front<br>
-      - Backend에서 동일한 기능을 화면 개발을 하였음.<br>
-      - 메뉴관리는 공통 컴포넌트로 구현.<br><br>
-      c. DB<br>
-      - Backend에서 동일한 기능을 DB 설계하였음.<br>
+    
+    [장비 토폴로지 등록]
+    - ⚠️ Web Backend : 장비 토폴로지(Ring)등록 작업 RestAPI 개발
+    - ⚠️ Web Front : 장비 토폴로지(Ring)등록 작업을 화면에 추가
+    
+    [Package donwload]
+    - ⚠️ Web Front : Package download 시 필요한 Web Woker 개발
+  
+    [유지보수]
+    그 외 유지보수성 개발
+
   </div>
 </div>
 <br>
@@ -82,6 +88,8 @@
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
     개발 환경 : IntelliJ, Github, JIRA Confluence, Postman, Swagger, DBeaver<br>
     개발경험 :<br>
+
+    [Syslog 수집 모듈 개발]
       a. Spring Integration + Spring Batch를 활용하여 장비 노드의 Log 메시지를 가져올 수 있는 Syslog 모듈을 개발하였음.<br>
       b. 고객사에 배포하여 테스트 진행.<br>
   </div>
@@ -94,8 +102,17 @@
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
     개발 환경 : IntelliJ, Github, JIRA Confluence, Postman, Swagger, DBeaver<br>
     개발경험 :<br>
-      a. 웹 백엔드 개발<br>
-      b. 웹 프론트 개발<br>
+    
+      []
+      a. Web Backend 
+      - 사용자관리, 로그인, 메뉴관리, 권한관리, Tenant관리, IP 권한관리, 세션관리, 세션 히스토리관리, 3rd party 관리, NE Group 관리 등 RestAPI 개발하였음.
+      - Exception 처리 및 log 등 다국어처리가 될 수 있도록 개발하였음
+      - 로그인 사용자의 권한과 세션체크 경험이 있음.
+      b. Web Front
+      - Backend에서 동일한 기능을 화면 개발을 하였음
+      - 메뉴관리는 공통 컴포넌트로 구현.
+      c. DB
+      - Backend에서 동일한 기능을 DB 설계하였음.
   </div>
 </div>
 <br>
@@ -106,10 +123,11 @@
     기술 스택 : Java, Springboot, JPA, MySQL, RabbitMQ, Jenkins, Kubernetes<br>
     개발 환경 : IntelliJ, Github, JIRA Confluence, Slack, Postman, Swagger, DBeaver<br>
     개발경험 :<br>
-      a. Cisco 장비 연동 서비스 개발: 장비에 요청을 보내고, 장비의 응답을 받아서 다른 서비스에 전달하는 서비스를 구현함. Custom Round Robin 방식을 구현하고자 RabbitMQ를 사용하여 장비 연동 및 서비스를 개발 중.<br>
-      b. Gateway 서비스 개발: MSA 구조에서 들어오는 요청의 헤더를 커스텀하여 내부 서비스로의 라우팅 기능을 구현.<br>
-      c. Adapter 서비스 개발: RabbitMQ를 통해 들어오는 메시지들을 HTTP 통신으로 변경하여 내부 서비스에 전달하는 기능을 개발하였음.<br>
-      d. Authorization 서비스 개발: MSA 구조 내부에서 필요한 인증 절차를 구현하였으며, OAuth 2.0의 Client Credentials Grant 방식을 커스텀하여 구현.<br>
+    
+      a. Cisco 장비 연동 서비스 개발: 장비에 요청을 보내고, 장비의 응답을 받아서 다른 서비스에 전달하는 서비스를 구현함. Custom Round Robin 방식을 구현하고자 RabbitMQ를 사용하여 장비 연동 및 서비스를 개발 중.
+      b. Gateway 서비스 개발: MSA 구조에서 들어오는 요청의 헤더를 커스텀하여 내부 서비스로의 라우팅 기능을 구현.
+      c. Adapter 서비스 개발: RabbitMQ를 통해 들어오는 메시지들을 HTTP 통신으로 변경하여 내부 서비스에 전달하는 기능을 개발하였음.
+      d. Authorization 서비스 개발: MSA 구조 내부에서 필요한 인증 절차를 구현하였으며, OAuth 2.0의 Client Credentials Grant 방식을 커스텀하여 구현.
   </div>
 </div>
 <br>
