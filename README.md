@@ -63,8 +63,8 @@
 <br>
 <div>
   <h3>🗓️ SKT HOLA 유지보수 / 고도화 개발</h3>
-    <h5><a href="https://github.com/devdaram/web-backend/tree/main#-1-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">⍟ web-backend repository</a></h5>
-  <h5><a href="https://github.com/devdaram/Web-Front/tree/main#-1-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.git">⍟ web-front repository</a></h5>
+    <h5><a href="https://github.com/devdaram/web-backend/tree/main#-1-skt-프로젝트-">⍟ web-backend repository</a></h5>
+  <h5><a href="https://github.com/devdaram/Web-Front/tree/main#-1-skt-프로젝트-.git">⍟ web-front repository</a></h5>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
     개발 환경 : IntelliJ, GitLab<br>
