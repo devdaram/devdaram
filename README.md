@@ -90,8 +90,8 @@
     개발경험 :<br>
 
     [Syslog 수집 모듈 개발]
-      a. Spring Integration + Spring Batch를 활용하여 장비 노드의 Log 메시지를 가져올 수 있는 Syslog 모듈을 개발하였음.<br>
-      b. 고객사에 배포하여 테스트 진행.<br>
+     - Spring Integration 과 Spring Batch를 활용하여 장비의 Log message를 수집하여 DB에 저장할 수 있는 모듈개발
+
   </div>
 </div>
 <br>
@@ -103,16 +103,16 @@
     개발 환경 : IntelliJ, Github, JIRA Confluence, Postman, Swagger, DBeaver<br>
     개발경험 :<br>
     
-      []
-      a. Web Backend 
-      - 사용자관리, 로그인, 메뉴관리, 권한관리, Tenant관리, IP 권한관리, 세션관리, 세션 히스토리관리, 3rd party 관리, NE Group 관리 등 RestAPI 개발하였음.
-      - Exception 처리 및 log 등 다국어처리가 될 수 있도록 개발하였음
-      - 로그인 사용자의 권한과 세션체크 경험이 있음.
-      b. Web Front
-      - Backend에서 동일한 기능을 화면 개발을 하였음
-      - 메뉴관리는 공통 컴포넌트로 구현.
-      c. DB
-      - Backend에서 동일한 기능을 DB 설계하였음.
+    [NMS 개발]
+      - Web Backend : 사용자관리, 로그인, 메뉴관리, 권한관리, Tenant관리, IP 권한관리, 세션관리, 세션 히스토리관리, 3rd party 관리, 장비 Group 관리 등 RestAPI 개발하였음.
+      - Web Front : 위의 기능이 동작하는 화면개발 및 공통 컴포넌트 개발
+      
+    [다국어 처리]  
+      - Web Backend, Front에서 Exception 처리 및 log 등 다국어처리가 될 수 있도록 개발
+
+    [권한 및 세션관리]
+      -⚠️ 사용자의 로그인과 권한, 세션체크 경험이 있음.
+     
   </div>
 </div>
 <br>
@@ -124,10 +124,17 @@
     개발 환경 : IntelliJ, Github, JIRA Confluence, Slack, Postman, Swagger, DBeaver<br>
     개발경험 :<br>
     
-      a. Cisco 장비 연동 서비스 개발: 장비에 요청을 보내고, 장비의 응답을 받아서 다른 서비스에 전달하는 서비스를 구현함. Custom Round Robin 방식을 구현하고자 RabbitMQ를 사용하여 장비 연동 및 서비스를 개발 중.
-      b. Gateway 서비스 개발: MSA 구조에서 들어오는 요청의 헤더를 커스텀하여 내부 서비스로의 라우팅 기능을 구현.
-      c. Adapter 서비스 개발: RabbitMQ를 통해 들어오는 메시지들을 HTTP 통신으로 변경하여 내부 서비스에 전달하는 기능을 개발하였음.
-      d. Authorization 서비스 개발: MSA 구조 내부에서 필요한 인증 절차를 구현하였으며, OAuth 2.0의 Client Credentials Grant 방식을 커스텀하여 구현.
+       [Cisco 장비 연동 서비스 개발]
+        - 장비에 요청을 보내고, 장비의 응답을 받아서 다른 서비스에 전달하는 서비스를 개발. Custom Round Robin 방식을 구현하고자 RabbitMQ를 사용하여 장비 연동 및 서비스를 개발 중.
+       
+       [Gateway 서비스 개발]
+        - MSA 구조에서 들어오는 요청의 헤더를 커스텀하여 내부 서비스로의 라우팅 기능을 구현.
+       
+       [Adapter 서비스 개발]
+        - RabbitMQ를 통해 들어오는 메시지들을 HTTP 통신으로 변경하여 내부 서비스에 전달하는 기능을 개발하였음.
+       
+       [Authorization 서비스 개발]
+        - MSA 구조 내부에서 필요한 인증 절차를 구현하였으며, OAuth 2.0의 Client Credentials Grant 방식을 커스텀하여 개발
   </div>
 </div>
 <br>
@@ -135,29 +142,38 @@
 <h1 align="center">✨ 활동 목록 ✨</h1>
 <div>
   <h3 ><a href="https://github.com/devdaram/Git-convetion-share.git"> 🦋 Git PR , Convention 문화 만들기 </a></h3>
-  <div>
-  </div>
+
+    기존에 팀 내 Github 활용도가 높은 편은 아니었습니다.
+    저는 팀 내에 적극적인 개발문화 유도와 업무 효율성을 높이기 위해
+    Git PR/convention rule 과 관련된 문서를 만들어 공유하여 교육을 진행한 경험이 있습니다. 
+    결과적으로 현재 팀 내에 Git 개발문화가 자리잡아 과거보다 원활한 소통을 유지하고 있습니다.
 </div>
 <br>
 <br>
 <div>
   <h3><a href="https://github.com/devdaram/OJT-Process.git"> 🦋 신입사원 OJT 진행</a> </h3>
-  <div>
-  </div>
+
+    회사에 OJT 문화가 존재하지 않았습니다.
+    하지만 제가 신입사원일때 같은 팀 상급자분이 따로 OJT를 진행해주셨습니다.
+    이때 했던 경험이 저에게 큰 도움이 되었습니다.
+    이를 다음 신입사원분들께 도움이 되었으면 하는 마음에 OJT를 준비하여 진행한 경험이 있습니다.
 </div>
 <br>
 <br>
 <div>
   <h3><a href="https://github.com/devdaram/keyclock-auth-service.git"> 🦋 Keyclock 사용 </a></h3>
-  <div>
-  </div>
+
+    프로젝트 투입전에 keyclock이라는 기술을 이용해보면 좀 더 효과적으로 개발을 진행할 수 있을 것 같다는 의견을 팀에게 제안하기 위해
+    사용자 권한과 관련된 기능을 Keyclock을 이용하여 개발해본 경험이 있습니다.
+    
 </div>
 <br>
 <br>
 <div>
   <h3><a href="https://github.com/devdaram/Notion-Activity.git"> 🦋 Notion으로 업무활동 기록 </a></h3>
-  <div>
-  </div>
+    
+    사내에서 적극적인 개발문화를 수립하기위해 노션으로 일정 및 진행상황 공유 스페이스를 만들어 사용한 경험이 있습니다.
+    기존에 단순히 대단위 기능만 분업되었던것과 달리 웹 포지션 분들과는 상세한 업무기능 분담이 가능해져 업무 효율성이 증가하였습니다.
 </div>
 
 <!--   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
