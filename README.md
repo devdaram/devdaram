@@ -34,7 +34,7 @@
 <!--내용 부분-->
 <h1 align="center">✨ 경력기술서 ✨</h1>
 <div>
-  <a href="https://github.com/devdaram/Operation-Community-Board.git"><h3>🗓️ 철도공사 전원관리시스템 NMS 개발</h3></a>
+  <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ 철도공사 전원관리시스템 NMS 개발</a></h3>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL<br>
     개발 환경 : IntelliJ, Github<br>
@@ -47,7 +47,7 @@
 <br>
 <br>
 <div>
-  <a href="https://github.com/devdaram/Operation-Community-Board.git"><h3>🗓️ SKB 국가융합망</h3></a>
+  <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ SKB 국가융합망</a></h3>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
     개발 환경 : IntelliJ, Github<br>
@@ -58,7 +58,7 @@
 <br>
 <br>
 <div>
-  <a href="https://github.com/devdaram/Operation-Community-Board.git"><h3>🗓️ SKT HOLA 유지보수 / 고도화 개발</h3></a>
+  <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ SKT HOLA 유지보수 / 고도화 개발</a></h3>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
     개발 환경 : IntelliJ, Github<br>
@@ -77,7 +77,7 @@
 <br>
 <br>
 <div>
-  <a href="https://github.com/devdaram/Operation-Community-Board.git"><h3>🗓️ 한전 Access SDN BMT 개발</h3></a>
+  <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ 한전 Access SDN BMT 개발</a></h3>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
     개발 환경 : IntelliJ, Github, JIRA Confluence, Postman, Swagger, DBeaver<br>
@@ -89,7 +89,7 @@
 <br>
 <br>
 <div>
-  <a href="https://github.com/devdaram/Operation-Community-Board.git"><h3>5)🗓️ 삼성전자 Private 5G NMS(PNMS) 개발</h3></a>
+  <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ 삼성전자 Private 5G NMS(PNMS) 개발</a></h3>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
     개발 환경 : IntelliJ, Github, JIRA Confluence, Postman, Swagger, DBeaver<br>
@@ -101,7 +101,7 @@
 <br>
 <br>
 <div>
-  <a href="https://github.com/devdaram/Operation-Community-Board.git"><h3>🗓️ KT Cloud NMS 차세대 아키텍처 개발</h3></a>
+  <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ KT Cloud NMS 차세대 아키텍처 개발</a></h3>
   <div>
     기술 스택 : Java, Springboot, JPA, MySQL, RabbitMQ, Jenkins, Kubernetes<br>
     개발 환경 : IntelliJ, Github, JIRA Confluence, Slack, Postman, Swagger, DBeaver<br>
@@ -116,28 +116,28 @@
 <br>
 <h1 align="center">✨ 활동 목록 ✨</h1>
 <div>
-  <a href="https://github.com/devdaram/Git-convetion-share.git"><h3 > 🦋 Git PR , Convention 문화 만들기 </h3></a>
+  <h3 ><a href="https://github.com/devdaram/Git-convetion-share.git"> 🦋 Git PR , Convention 문화 만들기 </a></h3>
   <div>
   </div>
 </div>
 <br>
 <br>
 <div>
-  <a href="https://github.com/devdaram/OJT-Process.git"><h3> 🦋 신입사원 OJT 진행 </h3></a>
+  <h3><a href="https://github.com/devdaram/OJT-Process.git"> 🦋 신입사원 OJT 진행</a> </h3>
   <div>
   </div>
 </div>
 <br>
 <br>
 <div>
-  <a href="https://github.com/devdaram/keyclock-auth-service.git"><h3> 🦋 Keyclock 사용 </h3></a>
+  <h3><a href="https://github.com/devdaram/keyclock-auth-service.git"> 🦋 Keyclock 사용 </a></h3>
   <div>
   </div>
 </div>
 <br>
 <br>
 <div>
-  <a href="https://github.com/devdaram/Notion-Activity.git"><h3> 🦋 Notion으로 업무활동 기록 </h3></a>
+  <h3><a href="https://github.com/devdaram/Notion-Activity.git"> 🦋 Notion으로 업무활동 기록 </a></h3>
   <div>
   </div>
 </div>
