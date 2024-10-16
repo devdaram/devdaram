@@ -137,8 +137,6 @@
        [Adapter 서비스 개발]
         - RabbitMQ를 통해 들어오는 메시지들을 HTTP 통신으로 변경하여 내부 서비스에 전달하는 기능을 개발하였음.
        
-       [Authorization 서비스 개발]
-        - MSA 구조 내부에서 필요한 인증 절차를 구현하였으며, OAuth 2.0의 Client Credentials Grant 방식을 커스텀하여 개발
   </div>
 </div>
 <br>
