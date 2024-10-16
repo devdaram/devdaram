@@ -116,32 +116,28 @@
 <br>
 <h1 align="center">✨ 활동 목록 ✨</h1>
 <div>
-  <a href="https://github.com/devdaram/Operation-Community-Board.git"><h3 > 🦋 Git PR , Convention 문화 만들기 </h3></a>
-   <a href="https://github.com/your-repo-link">📁 리포지토리 링크</a>
+  <a href="https://github.com/devdaram/Git-convetion-share.git"><h3 > 🦋 Git PR , Convention 문화 만들기 </h3></a>
   <div>
   </div>
 </div>
 <br>
 <br>
 <div>
-  <a href="https://github.com/devdaram/Operation-Community-Board.git"><h3> 🦋 신입사원 OJT 진행 </h3></a>
-   <a href="https://github.com/your-repo-link">📁 리포지토리 링크</a>
+  <a href="https://github.com/devdaram/OJT-Process.git"><h3> 🦋 신입사원 OJT 진행 </h3></a>
   <div>
   </div>
 </div>
 <br>
 <br>
 <div>
-  <a href="https://github.com/devdaram/Operation-Community-Board.git"><h3> 🦋 Keyclock 사용 </h3></a>
-   <a href="https://github.com/your-repo-link">📁 리포지토리 링크</a>
+  <a href="https://github.com/devdaram/keyclock-auth-service.git"><h3> 🦋 Keyclock 사용 </h3></a>
   <div>
   </div>
 </div>
 <br>
 <br>
 <div>
-  <a href="https://github.com/devdaram/Operation-Community-Board.git"><h3> 🦋 Notion으로 업무활동 기록 </h3></a>
-   <a href="https://github.com/your-repo-link">📁 리포지토리 링크</a>
+  <a href="https://github.com/devdaram/Notion-Activity.git"><h3> 🦋 Notion으로 업무활동 기록 </h3></a>
   <div>
   </div>
 </div>
