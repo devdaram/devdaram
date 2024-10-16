@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JuYeong's%20Github&fontSize=90" />
 </div>
 
-<h1 align="center">✨ 주요 사용 기술 ✨</h1>
+<h1 align="center">✨ 사용 기술 요약 ✨</h1>
 <div>
    <h3> 1️⃣ Web backend (중급 4년)</h3>
   <div>
