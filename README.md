@@ -34,7 +34,7 @@
 <!--내용 부분-->
 <h1 align="center">✨ 경력기술서 ✨</h1>
 <div>
-  <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ 철도공사 전원관리시스템 NMS 개발</a></h3>
+  <h3><a href="https://github.com/devdaram/Korail-Web.git">🗓️ 철도공사 전원관리시스템 NMS 개발</a></h3>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL<br>
     개발 환경 : IntelliJ, GitLab<br>
@@ -62,7 +62,7 @@
 <br>
 <br>
 <div>
-  <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ SKT HOLA 유지보수 / 고도화 개발</a></h3>
+  <h3><a href="https://github.com/devdaram/web-backend.git.git">🗓️ SKT HOLA 유지보수 / 고도화 개발</a></h3>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
     개발 환경 : IntelliJ, GitLab<br>
@@ -83,7 +83,7 @@
 <br>
 <br>
 <div>
-  <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ 한전 Access SDN BMT 개발</a></h3>
+  <h3><a href="https://github.com/devdaram/Spring-Integration-Syslog.git">🗓️ 한전 Access SDN BMT 개발</a></h3>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
     개발 환경 : IntelliJ, Github, JIRA Confluence, Postman, Swagger, DBeaver<br>
@@ -97,7 +97,7 @@
 <br>
 <br>
 <div>
-  <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ 삼성전자 Private 5G NMS(PNMS) 개발</a></h3>
+  <h3><a href="https://github.com/devdaram/web-backend.git">🗓️ 삼성전자 Private 5G NMS(PNMS) 개발</a></h3>
   <div>
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
     개발 환경 : IntelliJ, Github, JIRA Confluence, Postman, Swagger, DBeaver<br>
@@ -118,7 +118,7 @@
 <br>
 <br>
 <div>
-  <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ KT Cloud NMS 차세대 아키텍처 개발</a></h3>
+  <h3><a href="https://github.com/devdaram/Msa-Service.git">🗓️ KT Cloud NMS 차세대 아키텍처 개발</a></h3>
   <div>
     기술 스택 : Java, Springboot, JPA, MySQL, RabbitMQ, Jenkins, Kubernetes<br>
     개발 환경 : IntelliJ, Github, JIRA Confluence, Slack, Postman, Swagger, DBeaver<br>
