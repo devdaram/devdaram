@@ -1,5 +1,10 @@
 <!--타이틀 부분-->
 <div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevdaram%2Fhit-counter&count_bg=%23242524&title_bg=%23368FB6&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+<br/>
+
+<div align="center">
 <!--   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" /> -->
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JuYeong's%20Github&fontSize=90" />
 </div>
