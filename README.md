@@ -30,7 +30,7 @@
    <h3> 2️⃣ Web Front (중급 4년)</h3>
   <div>
     - Javascript, Vue, Angular를 이용하여 화면 개발 경험있음<br>
-    - Woker 개발 경험있음<br>
+    - Worker 개발 경험있음<br>
     - Nginx 웹서버 + docker 로 배포경험있음<br>
     - 다국어 처리 경험있음<br>
     - Vue.js 기반 함수형 컴포넌트 개발 경험있음<br>
@@ -49,14 +49,19 @@
     개발 환경 : IntelliJ, Github, JIRA Confluence, Slack, Postman, Swagger, DBeaver<br>
     개발경험 :<br>
     
-       [Cisco 장비 연동 서비스 개발]
-        - 장비에 요청을 보내고, 장비의 응답을 받아서 다른 서비스에 전달하는 서비스를 개발. Custom Round Robin 방식을 구현하고자 RabbitMQ를 사용하여 장비 연동 및 서비스를 개발 중.
-       
-       [Gateway 서비스 개발]
-        - MSA 구조에서 들어오는 요청의 헤더를 커스텀하여 내부 서비스로의 라우팅 기능을 구현.
-       
-       [Adapter 서비스 개발]
-        - RabbitMQ를 통해 들어오는 메시지들을 Webflux를 활용하여 HTTP 통신으로 변경하여 내부 서비스에 전달하는 기능을 개발.
+    [Cisco 장비 연동 서비스 개발]
+    - 장비에 요청을 보내고, 장비의 응답을 받아서 다른 서비스에 전달하는 서비스를 개발. 
+    - SDN : Custom Round Robin 방식을 구현하고자 Temporal workflow를 사용하여 장비 연동 및 자동화 서비스를 개발 중.
+    - NSO : 장비로 내려가는 연동 API 개발
+    
+    [Gateway 서비스 개발]
+    - MSA 구조에서 들어오는 요청의 헤더를 보고 인증서버로 보낸 뒤 인증여부에 따라 내부 서비스로의 라우팅 기능을 구현.
+    
+    [Authorization 서비스 개발]
+    - MSA 구조에서 NSM 내부로 들어오는 요청을 OAuth2.0 기반으로 Client Credentials 인증 및 Custom Client Credentials로 인증 할 수 있도록 하는 서비스 구현 (보안을 위해 내부적으로 인증서비스를 추가하였음)
+    
+    [Adapter 서비스 개발]
+    - RabbitMQ를 통해 들어오는 메시지들을 Webflux를 활용하여 HTTP 통신으로 변경하여 내부 서비스에 전달하는 기능을 개발.
        
   </div>
 </div>
@@ -146,8 +151,8 @@
     기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL<br>
     개발 환경 : IntelliJ, GitLab<br>
     개발경험 :<br>
-    [NMS 웹 개발] <br>
     
+    [NMS 웹 개발]
     - Web Backend : 전원설비, 무선설비 등 관리하는 화면에 필요한 RestAPI 개발
     - Web Front : 전원설비, 무선설비 등 관리하는 화면 개발 
     
@@ -177,7 +182,7 @@
 <br>
 
 <div>
-  <h3><a href="https://github.com/devdaram/keyclock-auth-service.git"> 🦋 Keyclock 사용 </a></h3>
+  <h3><a href="https://github.com/devdaram/keyclock-auth-service.git"> 🦋 Keycloak 사용 </a></h3>
 
     프로젝트 투입 전에 Keycloak을 활용하면 개발 효율이 높아질 것 같아, 사용자 권한 관련 기능을 Keycloak으로 직접 개발해본 경험이 있습니다. 
     이를 통해 새로운 기술을 빠르게 습득하고, 실제 프로젝트에 적용할 수 있는 가능성을 검증하며 팀에 실질적인 도움을 줄 수 있었습니다.
