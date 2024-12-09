@@ -9,33 +9,6 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JuYeong's%20Github&fontSize=90" />
 </div>
 
-<h1 align="center">✨ 사용 기술 요약 ✨</h1>
-<div>
-   <h3> 1️⃣ Web backend (중급 4년)</h3>
-  <div>
-    - Java springboot RestAPI 개발<br>
-    - Java reactive(webflux) + RabbitMQ 활용 및 event driven 방식 활용 경험있음<br>
-    - 다국어 처리 개발 경험있음<br>
-    - Spring Integration 사용 경험있음<br>
-    - RabbitMQ 사용 경험있음<br>
-    - Docker + Kubernetes helmchart 이용하여 배포 경험있음<br>
-    - web backend 기능에 대해 DB Table 설계 경험있음<br>
-    - PostgreSQL 또는 mySQL 기반 쿼리 작성 경험있음(mybatis)<br>
-    - OAuth2.0 사용 경험있음<br>
-  </div>
-</div>
-<br>
-<br>
-<div>
-   <h3> 2️⃣ Web Front (중급 4년)</h3>
-  <div>
-    - Javascript, Vue, Angular를 이용하여 화면 개발 경험있음<br>
-    - Worker 개발 경험있음<br>
-    - Nginx 웹서버 + docker 로 배포경험있음<br>
-    - 다국어 처리 경험있음<br>
-    - Vue.js 기반 함수형 컴포넌트 개발 경험있음<br>
-  </div>
-</div>
 
 
 <!--내용 부분-->
