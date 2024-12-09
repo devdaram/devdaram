@@ -1,8 +1,4 @@
 <!--타이틀 부분-->
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevdaram%2Fhit-counter&count_bg=%23242524&title_bg=%23368FB6&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
-<br/>
 
 <div align="center">
 <!--   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" /> -->
@@ -137,6 +133,16 @@
 <h1 align="center">✨ 활동 목록 ✨</h1>
 
      ❗️ 제목을 누르시면 해당 레파지토리로 이동됩니다
+
+<div>
+  <h3>🦋 사내 WebFrontFramework 개발 참여 (2024.01 ~ 2024.03)</h3>
+
+    Vue 2.0 버전 대가 곧 지원이 만료된다는 소식을 듣고 기존 사내 프로젝트가 Vue 2.0 버전으로 개발되어 있었기때문에
+    추후 프로젝트들은 마이그레이션을 해야하는 이슈가 생길 수 있다는 논의결과로 Vue 3.0 을 기반으로 여러 프로젝트에서 사용 될 `웹 프론트 프레임워크 개발`을 진행하게 되었습니다.
+    Vue 3.0 에 관심이 있어 사내 프레임워크 개발에 참여하였으며 특히, 이미지를 첨부 할 수 있는 동적 이미지 프레임 컴포넌트를 개발을 진행했습니다.
+</div>
+<br>
+
 <div>
   <h3 ><a href="https://github.com/devdaram/Git-convetion-share.git"> 🦋 Git PR , Convention 문화 만들기 </a></h3>
 
