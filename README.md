@@ -14,9 +14,6 @@
 <div>
   <h3><a href="https://github.com/devdaram/Msa-Service.git">🗓️ KT Cloud NMS 차세대 아키텍처 개발 (2024.03 ~ 현재)</a></h3>
   <div>
-    기술 스택 : Java, Springboot, JPA, MySQL, RabbitMQ, Jenkins, Kubernetes<br>
-    개발 환경 : IntelliJ, Github, JIRA Confluence, Slack, Postman, Swagger, DBeaver<br>
-    개발경험 :<br>
     
     [Cisco 장비 연동 서비스 개발]
     - 장비에 요청을 보내고, 장비의 응답을 받아서 다른 서비스에 전달하는 서비스를 개발. 
@@ -41,9 +38,6 @@
   <h5><a href="https://github.com/devdaram/web-backend/tree/main#-2-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">⍟ web-backend repository</a></h5>
   <h5><a href="https://github.com/devdaram/Web-Front/tree/main#-2-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.git">⍟ web-front repository</a></h5>
   <div>
-    기술 스택 : Java, Springboot, JPA, mariadb, MySql, Vue.js, javascript, Kubernetes, podman<br>
-    개발 환경 : IntelliJ, Github, JIRA Confluence, Postman, Swagger, DBeaver<br>
-    개발경험 :<br>
     
     [전체적인 NMS Web 개발]
     - Web Backend : 사용자관리, 로그인, 메뉴관리, 권한관리, Tenant관리, IP 권한관리, 세션관리, 세션 히스토리관리, 3rd party 관리, 장비 Group 관리 등 RestAPI 개발하였음.
@@ -67,9 +61,6 @@
     <h5><a href="https://github.com/devdaram/web-backend/tree/main#-1-skt-프로젝트-">⍟ web-backend repository</a></h5>
   <h5><a href="https://github.com/devdaram/Web-Front/tree/main#-1-skt-프로젝트-.git">⍟ web-front repository</a></h5>
   <div>
-    기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL, Jenkins, Eureka<br>
-    개발 환경 : IntelliJ, GitLab<br>
-    개발경험 :<br>
     
     [장비 토폴로지 등록]
     - Web Backend : 장비 토폴로지(Ring)등록 작업 RestAPI 개발
@@ -87,10 +78,7 @@
 <div>
   <h3><a href="https://github.com/devdaram/Spring-Integration-Syslog.git">🗓️ 한전 Access SDN BMT 개발(2022.02 ~ 2022.04)</a></h3>
   <div>
-    기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL<br>
-    개발 환경 : IntelliJ, Github, JIRA Confluence, Postman, Swagger, DBeaver<br>
-    개발경험 :<br>
-
+  
     [Syslog 수집 모듈 개발]
     - Spring Integration 과 Spring Batch를 활용하여 장비의 Log message를 수집하여 DB에 저장할 수 있는 모듈개발
     - 수집된 로그를 화면에서도 볼 수 있도록 Web Front 개발
@@ -102,9 +90,6 @@
 <div>
   <h3><a href="https://github.com/devdaram/Operation-Community-Board.git">🗓️ SKB 국가융합망 (2021.08 ~ 2021.09)</a></h3>
   <div>
-    기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL <br>
-    개발 환경 : IntelliJ, GitLab<br>
-    개발경험 :<br>
     
     [운영자를 위한 게시판 개발]
     - Web Backend : 운영자를 위한 커뮤니티 게시판에 필요한 RestAPI 개발
@@ -117,9 +102,6 @@
 <div>
   <h3><a href="https://github.com/devdaram/Korail-Web.git">🗓️ 철도공사 전원관리시스템 NMS 개발 (2021.04 ~ 2021.09)</a></h3>
   <div>
-    기술 스택 : Java, Springboot, Angular.js, Mybatis, PostgreSQL<br>
-    개발 환경 : IntelliJ, GitLab<br>
-    개발경험 :<br>
     
     [NMS 웹 개발]
     - Web Backend : 전원설비, 무선설비 등 관리하는 화면에 필요한 RestAPI 개발
@@ -133,15 +115,6 @@
 <h1 align="center">✨ 활동 목록 ✨</h1>
 
      ❗️ 제목을 누르시면 해당 레파지토리로 이동됩니다
-
-<div>
-  <h3>🦋 사내 WebFrontFramework 개발 참여 (2024.01 ~ 2024.03)</h3>
-
-    Vue 2.0 버전 대가 곧 지원이 만료된다는 소식을 듣고 기존 사내 프로젝트가 Vue 2.0 버전으로 개발되어 있었기때문에
-    추후 프로젝트들은 마이그레이션을 해야하는 이슈가 생길 수 있다는 논의결과로 Vue 3.0 을 기반으로 여러 프로젝트에서 사용 될 `웹 프론트 프레임워크 개발`을 진행하게 되었습니다.
-    Vue 3.0 에 관심이 있어 사내 프레임워크 개발에 참여하였으며 특히, 이미지를 첨부 할 수 있는 동적 이미지 프레임 컴포넌트를 개발을 진행했습니다.
-</div>
-<br>
 
 <div>
   <h3 ><a href="https://github.com/devdaram/Git-convetion-share.git"> 🦋 Git PR , Convention 문화 만들기 </a></h3>
