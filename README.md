@@ -22,12 +22,6 @@
     
     [Gateway 서비스 개발]
     - MSA 구조에서 들어오는 요청의 헤더를 보고 인증서버로 보낸 뒤 인증여부에 따라 내부 서비스로의 라우팅 기능을 구현.
-    
-    [Authorization 서비스 개발]
-    - MSA 구조에서 NSM 내부로 들어오는 요청을 OAuth2.0 기반으로 Client Credentials 인증 및 Custom Client Credentials로 인증 할 수 있도록 하는 서비스 구현 (보안을 위해 내부적으로 인증서비스를 추가하였음)
-    
-    [Adapter 서비스 개발]
-    - RabbitMQ를 통해 들어오는 메시지들을 Webflux를 활용하여 HTTP 통신으로 변경하여 내부 서비스에 전달하는 기능을 개발.
        
   </div>
 </div>
